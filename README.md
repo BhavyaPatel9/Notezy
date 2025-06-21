@@ -1,4 +1,4 @@
-# 📝 Notezy - Simple Note-Taking App (MERN Stack)
+# 📝 Notezy - Simple Note-Taking App (MERN Stack) | **[🔗 Live Demo (Render)](https://notezy-2fs4.onrender.com/)**
 
 Notezy is a Full-Stack Note-Taking Web Application built using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js).  
 It allows users to **Create, Read, Update, and Delete notes** (CRUD functionality) with title and description.  
